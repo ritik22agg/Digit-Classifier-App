@@ -10,3 +10,11 @@
 </ul>
 
 <h1> Working Examples </h1>
+
+<h3> Example 1 </h3>
+<img src = "Example 1.jpg" width = "300px" >
+<hr>
+
+<h3> Example 2 </h3>
+<img src = "Example 2.jpg" width = "300px" >
+
